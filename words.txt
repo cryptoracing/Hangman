@@ -1,0 +1,6 @@
+apple,Fruit,A popular fruit
+banana,Fruit,A yellow tropical fruit
+computer,Technology,A device for processing data
+python,Programming,A popular programming language
+hangman,Game,A word guessing game
+programming,Activity,The act of writing code
