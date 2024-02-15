@@ -1,13 +1,7 @@
 from hangman_game import HangmanGame
-from word import Word
 from player import Player
-
 from computer_player import ComputerPlayer
 
-from file_handler import FileHandler
-# game.py
-
-# Update the main() function in game.py
 
 def main():
     print("Welcome to Hangman!")
